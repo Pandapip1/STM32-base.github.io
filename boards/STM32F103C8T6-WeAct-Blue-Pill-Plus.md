@@ -1,5 +1,5 @@
 ---
-title: "STM32F103C8T6 - WeAct Blue Pill Plus Clone"
+title: "STM32F103C8T6 - WeAct Blue Pill Plus"
 ---
 
 {% assign filename = page.name | remove: '.md' | remove: '.' %}

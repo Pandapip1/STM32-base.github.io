@@ -1,6 +1,6 @@
 {
     "board": {
-        "name": "WeAct Blue Pill Plus Clone",
+        "name": "WeAct Blue Pill Plus",
         "brand": null,
         "marking": "Blue Pill+",
         "url": null,
@@ -34,24 +34,21 @@
         "size": { "length": 52, "width": 20 },
         "mounting": "Breadboard"
     },
-    "remarks": [
-        { "type": "warning", "content": "This board is a clone of the official WeAct Blue Pill Plus board. For this reason, no schematics are included on this page. Please refer to the official <a href=\"https://github.com/WeActTC/BluePill-Plus\">WeAct Github page</a> for more information." }
-    ],
     "resources": [
         {
             "name": "Perspective view",
             "type": "picture",
-            "file": "STM32F103C8T6_WeAct_Blue_Pill_Plus_Clone-1.jpg"
+            "file": "STM32F103C8T6_WeAct_Blue_Pill_Plus-1.jpg"
         },
         {
             "name": "Top view",
             "type": "picture",
-            "file": "STM32F103C8T6_WeAct_Blue_Pill_Plus_Clone-2.jpg"
+            "file": "STM32F103C8T6_WeAct_Blue_Pill_Plus-2.jpg"
         },
         {
             "name": "Bottom view",
             "type": "picture",
-            "file": "STM32F103C8T6_WeAct_Blue_Pill_Plus_Clone-3.jpg"
+            "file": "STM32F103C8T6_WeAct_Blue_Pill_Plus-3.jpg"
         },
         {
             "name": "Source files on Github",
